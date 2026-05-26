@@ -45,9 +45,7 @@ I'm currently building a foundation in:
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 `stock-return-prediction` | ML-based stock return forecasting with walk-forward validation | Python, scikit-learn |
-| 🔧 `efficient-frontier-optimizer` | Markowitz mean-variance portfolio optimizer | Python, CVXPY |
-| 🔧 `garch-volatility-model` | Volatility forecasting using GARCH family models | Python, arch |
+
 
 ---
 
