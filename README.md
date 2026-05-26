@@ -45,7 +45,9 @@ I'm currently building a foundation in:
 
 | Project | Description | Stack |
 |---|---|---|
-
+| 🔧 `stock-return-prediction` | ML-based stock return forecasting with walk-forward validation | Python, scikit-learn |
+| 🔧 `efficient-frontier-optimizer` | Markowitz mean-variance portfolio optimizer | Python, CVXPY |
+| 🔧 `garch-volatility-model` | Volatility forecasting using GARCH family models | Python, arch |
 
 ---
 
@@ -66,3 +68,11 @@ I'm always open to collaborating on research projects, discussing ideas, or conn
 📧 [abdelkrima2903@gmail.com](mailto:abdelkrima2903@gmail.com)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelkrimCode&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkrimCode&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+<p align="center"><i>"Mathematics is the language in which God has written the universe." — Galileo</i></p>
