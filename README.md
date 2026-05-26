@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm an undergraduate student in **Applied Mathematics and Artificial Intelligence** at PSL-Dauphine University, Paris. My work sits at the crossroads of financial mathematics, statistical modeling, and machine learning.
+I'm an undergraduate student in **Applied Mathematics and Artificial Intelligence** at PSL-Dauphine University, Tunis. My work sits at the crossroads of financial mathematics, statistical modeling, and machine learning.
 
 I'm currently building a foundation in:
 - **Quantitative finance** — pricing, risk modeling, portfolio theory
@@ -66,11 +66,3 @@ I'm always open to collaborating on research projects, discussing ideas, or conn
 📧 [abdelkrima2903@gmail.com](mailto:abdelkrima2903@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center"><i>"Mathematics is the language in which God has written the universe." — Galileo</i></p>
