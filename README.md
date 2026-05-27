@@ -29,7 +29,7 @@ I'm currently building a foundation in:
 ## 🛠️ Skills & Tools
 
 **Languages**
-`Python` · `R` · `SQL` · `LaTeX`
+`Python` · `R` · `C` · `LaTeX`
 
 **ML & Data**
 `scikit-learn` · `PyTorch` · `pandas` · `NumPy` · `Matplotlib` · `Seaborn`
