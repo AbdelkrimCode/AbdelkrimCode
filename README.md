@@ -44,6 +44,7 @@ I'm currently building a foundation in:
 > *(Projects coming soon — currently building)*
 ### [regime-adaptive-portfolio](https://github.com/AbdelkrimCode/regime-adaptive-portfolio)
 Algorithmic portfolio optimizer that detects Bull/Bear/Sideways market regimes using a **Gaussian Hidden Markov Model**, then dynamically switches between **Mean-Variance**, **Risk Parity**, and **Minimum Variance** optimizers. Backtested over 20 years against SPY — achieves less than a third of SPY's max drawdown (-20% vs -60%) with half the volatility.
+→ [View exploration notebook](https://github.com/AbdelkrimCode/regime-adaptive-portfolio/blob/main/notebooks/exploration.ipynb)
 
 `Python` `hmmlearn` `cvxpy` `yfinance` `pandas`
 
