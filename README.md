@@ -20,9 +20,9 @@
 I'm an undergraduate student in **Applied Mathematics and Artificial Intelligence** at PSL-Dauphine University, Tunis. My work sits at the crossroads of financial mathematics, statistical modeling, and machine learning.
 
 I'm currently building a foundation in:
-- **Quantitative finance** — pricing, risk modeling, portfolio theory
-- **Machine learning** — supervised/unsupervised learning, deep learning, time series
-- **Applied mathematics** — stochastic processes, optimization, linear algebra
+- **Quantitative finance** - pricing, risk modeling, portfolio theory
+- **Machine learning** - supervised/unsupervised learning, deep learning, time series
+- **Applied mathematics** - stochastic processes, optimization, linear algebra
 
 ---
 
