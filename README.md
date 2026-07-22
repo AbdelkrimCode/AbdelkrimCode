@@ -9,7 +9,9 @@
   <a href="mailto:abdelkrima2903@gmail.com">
     <img src="https://img.shields.io/badge/Email-abdelkrima2903%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://dauphine.psl.eu">
   <img src="https://img.shields.io/badge/University-PSL--Dauphine-lightgrey?style=flat-square" />
+  </a>  
   <img src="https://img.shields.io/badge/Focus-Quant%20Finance%20%C3%97%20ML-teal?style=flat-square" />
 </p>
 
