@@ -34,7 +34,7 @@ I'm currently building a foundation in:
 `Python` · `R` · `C` · `LaTeX`
 
 **ML & Data**
-`scikit-learn` · `PyTorch` · `pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+`scikit-learn` · `PyTorch` · `pandas` · `NumPy` · `Matplotlib`
 
 **Finance**
 `yfinance` · `statsmodels` · `CVXPY` · `QuantLib`
